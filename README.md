@@ -4,6 +4,7 @@
 
 - [Data Source](#data-source)
 - [Data cleaning and Preparartion](#data-cleaning-and-preparation)
+- [Results/Findings](results/findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 
@@ -46,7 +47,7 @@ Calender = CALENDAR(MIN(financials[Date]),MAX(financials[Date]))
 
 ```
 
-### Resulst/Findings
+### Results/Findings
 
 The analysis results are summarized as follows:
 1.	The company's financials have been steadily increasing over the two years, with a noticeable peak during the last quarter of the year.
