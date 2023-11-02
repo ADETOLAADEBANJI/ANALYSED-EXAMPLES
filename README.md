@@ -71,7 +71,13 @@ Based on the analysis, we recommend the following actions:
 I had to transform the numbers to whole number the units sold column because they would have affected the accuracy of my conclusions from the analysis. And I removed Montana product from the products column based on recommendations
 
 
-### Refernces
+### Dashboard
+
+![financial dashboard 1](https://github.com/ADETOLAADEBANJI/ANALYSED-EXAMPLES/assets/149164492/895429cf-364c-473e-9d0a-e795dcfdb8ac)
+
+
+### References
+
 
 
 
