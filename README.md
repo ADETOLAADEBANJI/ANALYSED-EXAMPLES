@@ -3,10 +3,17 @@
 ##Table of content.
 
 - [Data Source](#data-source)
+- [Tools](#tools)
 - [Data cleaning and Preparartion](#data-cleaning-and-preparation)
-- [Results/Findings](results/findings)
+- [Explanatory Data Analysis](#explanatory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
+- [Dashboard 1](#dashboard-1)
+- [Dashboard 2](#dashboard-2)
+- [Dashboard 3](#dashboard-3)
+ 
 
 ### Project overview
 
@@ -47,7 +54,7 @@ Calender = CALENDAR(MIN(financials[Date]),MAX(financials[Date]))
 
 ```
 
-### Results/Findings
+### Results and Findings
 
 The analysis results are summarized as follows:
 1.	The company's financials have been steadily increasing over the two years, with a noticeable peak during the last quarter of the year.
